@@ -1,6 +1,7 @@
 h1{
     text-align: center;
     background-color: blue;
+    color: white;
 }
 
 nav{
@@ -13,4 +14,5 @@ img{
     background-position: 50%;
     border-radius: 50%;
     background-size: 100% auto;
+    border: 10px;
 }
