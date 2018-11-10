@@ -7,13 +7,3 @@ h1{
 nav{
     background-color: brown;
 }
-p{
-    height: 100px;
-    width: 100px;
-    background-repeat: no-repeat;
-    background-position: 50%;
-    border-radius: 50%;
-    background-size: 100% auto;
-    border: black 10px solid;
-    padding: 10px;
-}
