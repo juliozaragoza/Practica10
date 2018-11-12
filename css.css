@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 h1{
     text-align: center;
     background-color: blue;
@@ -6,4 +10,24 @@ h1{
 
 nav{
     background-color: brown;
+    text-align: center;
+}
+body{
+    background-color: #FBF8EF;
+    
+}
+head{
+    background-color: #FBF8EF;
+}
+table td
+{ padding: 20px;
+   margin: 0px;
+   width: 200px;
+   
+   
+}
+p{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
 }
